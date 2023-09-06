@@ -239,6 +239,8 @@ ChromeOS has multiple methods that can be used to deploy the Cloudflare root cer
 
 6. In the file open dialog, choose the `Cloudflare_CA.crt` file you downloaded and select **Open**.
 
+7. To verify the certificate is installed and trusted, go to **Settings** > **Apps** > **Google Play Store** > **Manage Android Preferences** > **Security** > **Credentials** > **Trusted credentials** > **User**.
+
 {{</tab>}}
 
 {{<tab label="browser trust store" no-code="true">}}
